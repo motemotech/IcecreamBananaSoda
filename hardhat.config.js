@@ -5,7 +5,7 @@ require("@nomiclabs/hardhat-etherscan");
 
 
 const API_KOVAN_URL = "https://eth-kovan.alchemyapi.io/v2/y_IC01MbHRhEpdmsumCRa-ZsYY9ThxRg";
-const PRIVATE_KEY_DEV = "0558481eaa513d204380b34ceec9355ab3c825de8c565507c10dcea33319badb";
+const PRIVATE_KEY_DEV = "";
 
 module.exports = {
   solidity: {
